@@ -51,6 +51,6 @@ Here are some of my recent and ongoing projects:
 
 ## 📫 How to Reach Me
 - **Email**: [choumelarnaud@gmail.com]
-- **LinkedIn**: [VotreLinkedIn](lien_du_profil)
-- **GitHub**: [Votre GitHub](https://github.com/votreprofil)
+- **LinkedIn**: [Arnaud CHOUMELE](https://www.linkedin.com/in/arnaud-choumele-47156182/)
+- **GitHub**: [Votre GitHub](https://github.com/choumel)
 
