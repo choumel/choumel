@@ -5,9 +5,9 @@
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-blue)](https://github.com/choumel?tab=repositories)
 
 ## 🌟 About Me
-- 🎓 Aspiring **Spatial Data Scientist/Analyst** with strong skills in **Data Engineering** and **Machine Learning**.
+- 🎓 Aspiring **Data Scientist/Analyst** with strong skills in **Data Engineering** and **Machine Learning**.
 - 📚 Currently studying **Supervised Classification**, **Unsupervised Classification**, **Time Series Analysis**, and advanced **Machine Learning** techniques.
-- 🌍 Eager to solve real-world challenges in **geospatial analytics** (urban planning, environmental monitoring, transportation) and tackle broader data science and engineering problems across industries such as **finance**, **healthcare**, and **technology**.
+- 🌍 Eager to solve real-world challenges in ** analytics** (urban planning, environmental monitoring, transportation) and tackle broader data science and engineering problems across industries such as **finance**, **healthcare**, and **technology**.
 
 ## 🛠️ Skills & Tools
 
